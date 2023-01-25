@@ -1,0 +1,11 @@
+.navbar-brand{
+    font-size: 5em !important;
+    font-weight: bold;
+    /* padding-right: 200px; */
+}
+#navbarNav{
+    text-align: right;
+    font-size: 2em !important;
+    padding-left: 200px !important;
+    padding-right: 200px !important;
+}
