@@ -1,7 +1,8 @@
 body {
     font-family: 'Inter', sans-serif;
 }
-.logo{
+
+.logo, .p-text {
     color: black;
 }
 
@@ -9,11 +10,18 @@ p {
     font-size: 15px;
     color: hsl(36, 100%, 99%);
 }
+button{
+    background-color: hsl(5, 85%, 63%);
+}
 
-.right {
+.blue {
     background-color: hsl(240, 100%, 5%);
 }
 
 .new {
     color: hsl(35, 77%, 62%);
+}
+
+.bright {
+    color: hsl(240, 100%, 5%);
 }
