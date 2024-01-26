@@ -1,0 +1,19 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+.logo{
+    color: black;
+}
+
+p {
+    font-size: 15px;
+    color: hsl(36, 100%, 99%);
+}
+
+.right {
+    background-color: hsl(240, 100%, 5%);
+}
+
+.new {
+    color: hsl(35, 77%, 62%);
+}
