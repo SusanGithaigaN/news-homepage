@@ -1,6 +1,10 @@
 body {
     font-family: 'Inter', sans-serif;
 }
+/* navbar */
+.block:hover{
+    color: hsl(5, 85%, 63%);
+}
 
 .logo, .p-text {
     color: black;
@@ -24,4 +28,8 @@ button{
 
 .bright {
     color: hsl(240, 100%, 5%);
+}
+
+.off-white, .description{
+    color: hsl(233, 8%, 79%);
 }
